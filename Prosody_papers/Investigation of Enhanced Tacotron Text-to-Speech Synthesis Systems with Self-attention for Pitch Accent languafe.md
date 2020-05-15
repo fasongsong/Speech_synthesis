@@ -29,11 +29,11 @@ traditional pipeline
 
 tacotron2 = tacotron + wavenet
 
-일본새끼들말 = 히라가나 카타카나 칸지
+일본말 = 히라가나 카타카나 칸지
 
 pitch accented  language and accentual-types may change the meaning of words
 
-​	근데 일본놈들 글자에선 그 accentual type이 명확하게 나타나지 않음
+​	근데 일본 글자에선 그 accentual type이 명확하게 나타나지 않음
 
 accent nucleus positions are context dependent
 
